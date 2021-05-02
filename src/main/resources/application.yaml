@@ -1,0 +1,5 @@
+keycloak:
+  auth-server-url: http://localhost:8090/auth
+  realm: demo
+  resource: demo-app
+  principal-attribute: preferred_username
